@@ -3,7 +3,7 @@
     margin: 0;
 }
 body{
-    background-image: url(/marlonfet/imagen/mate.jpg);
+    background-image: url(../imagen/mate.jpg);
 }
 header{
     width: 100%;
