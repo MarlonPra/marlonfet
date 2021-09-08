@@ -250,6 +250,7 @@ height: 100%;
 }
 .reto a h1{
     font-size: 3.5vw;
+    color: black;
 }
 .reto:hover{
     background-color: #150cd3;
@@ -260,6 +261,10 @@ height: 100%;
     animation: boton 1s;
     animation-iteration-count: infinite;
     border-color: #2c64c4;
+}
+.reto a h1:hover{
+    color: #0D6EFD;
+    transition: 0.8s;
 }
 .reto2{
     background-color: rgb(64, 135, 216);
@@ -274,6 +279,7 @@ height: 100%;
 }
 .reto2 a h1{
     font-size: 3.5vw;
+    color: black;
 }
 .reto2:hover{
     background-color: #150cd3;
@@ -284,6 +290,10 @@ height: 100%;
     animation: boton 1s;
     animation-iteration-count: infinite;
     border-color: #2c64c4;
+}
+.reto2 a h1:hover{
+    color: #0D6EFD;
+    transition: 0.8s;
 }
 
 /* ////------------Animaciones-------------------//// */
